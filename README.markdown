@@ -17,7 +17,7 @@ This project develops a mutation prediction tool using BioJava to analyze geneti
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Lung-Oncogene-Mutation-Analysis.git
+   git clone https://github.com/sri-megha/Lung-Oncogene-Mutation-Analysis.git
    cd Lung-Oncogene-Mutation-Analysis
    ```
 2. Install dependencies using Maven:
@@ -54,10 +54,6 @@ Lung-Oncogene-Mutation-Analysis/
 ## Notes
 - Ensure the reference FASTA file is correctly formatted and contains sequences for the 11 oncogenes.
 - The tool assumes the input sequence is in a valid DNA format (A, T, C, G).
-
-## Authors
-- Srimegha (AM.LS.P2BIF23010)
-- Irishikesh E U (AM.LS.P2BIF23018)
 
 ## License
 This project is licensed under the MIT License.
