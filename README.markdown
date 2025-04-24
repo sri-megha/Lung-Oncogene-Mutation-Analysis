@@ -58,6 +58,4 @@ Lung-Oncogene-Mutation-Analysis/
 ## License
 This project is licensed under the MIT License.
 
-## Acknowledgments
-- Guided by Sanjay S Kumar, Amrita School of Biotechnology
 - References: [Nature](https://www.nature.com/articles/s41598-023-34016-y), [MDPI](https://www.mdpi.com/1424-8247/16/7/932), [BioJava](https://biojava.org/)
